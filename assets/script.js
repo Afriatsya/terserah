@@ -1,0 +1,1 @@
+console.log("Website UPT TIK dimuat.");
